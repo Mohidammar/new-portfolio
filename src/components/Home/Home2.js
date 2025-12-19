@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> Tensorflow, OCR and OpenCV</b>
+                <b className="purple"> Tensorflow, Scipy, OCR and OpenCV</b>
               </i>
             </p>
           </Col>
@@ -75,16 +75,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
+             
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/mohid-ammar-b74202218"
